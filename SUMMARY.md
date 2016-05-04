@@ -1,4 +1,4 @@
-# index of es6 learning note
+# Summary
 
 
-
+* [setup environment](docs/env-setup.md)
